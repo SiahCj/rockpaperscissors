@@ -1,0 +1,28 @@
+.container {
+    background-color:rgb(2, 94, 119);
+    font-family: arial;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 400px;
+    height: 200px;
+    
+}
+
+.selection {
+    height: 50px;
+    width: 120px;
+}
+
+#result { 
+    color: white;
+    font-size: 30px;
+    text-align: center; 
+    margin-top: 100px;  
+}
+
+.score-result {
+    color: tomato;
+    height: 40px;
+    margin-left: 140px;
+    margin-top: -25px;
+}
